@@ -9,7 +9,7 @@ We expect you to go in-depth on at least the following questions:
 - What it does and why do you love it?
 - What are its top 1-2 features? Why? Why were they implemented? How would you measure their success?
 - Same thing for the worst 1-2 features.
-- How would you improve it? Why? Consider you'd have 2 months with 1 designer and 2 engineers.
+- How would you improve it? Why is that important? What's the effect you expect it to be? Consider you'd have 2 months with 1 designer and 2 engineers.
 
 ## Criteria
 We are looking for intellectually rigorous, relentless resourceful, detail-obsessed, customer-centric, technically excellent product leaders.
