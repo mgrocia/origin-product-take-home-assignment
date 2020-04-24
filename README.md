@@ -1,7 +1,7 @@
 # Origin Product Take-Home Assignment
 
 ## The Assignment
-Write an analysis of your *new* favorite product.
+Write an analysis of your new favorite product.
 
 We expect you to go in-depth on at least the following questions:
 
