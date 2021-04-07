@@ -6,9 +6,8 @@ Write an analysis of your new favorite product.
 We expect you to go in-depth on at least the following questions:
 
 - What is the product and what does it do?
-- Why do you love it?
+- What makes it stand out as a great product?
 - What are its top 1-2 features? Why? Why were they implemented? How would you measure their success?
-- Same thing for the worst 1-2 features.
 - Design an MVP feature to improve the product. Include an overview of the scope of the MVP, how you prioritized the scope, and the impact you expect it to have on the company/product. Consider you'd have 2 months with 1 designer and 2 engineers.
 
 ## Criteria
